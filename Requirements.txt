@@ -1,0 +1,34 @@
+ENCMP 100 Programming Contest
+
+Idea: Synthlab, an interactive digital synthesizer.
+
+Key features (must-haves): 
+	– tone generator with real-time user controls for frequency selection.
+	– tone oscillator with real-time user controls for tone oscillations over time.
+	- keyboard mode for allowing the user to "play" the synth using QWERTY keys like a musical keyboard.
+	- volume control for user.
+	
+Nice-to-haves:
+	– Real-time time oscillator (LFO) the user can control for time between tone pulses.
+	– GUI for ease of use:
+		– knob, slider, and field for frequency selection.
+		– knob and slider for tone oscillator.
+		– knob and slider for LFO.
+		– volume slider.
+		– keyboard mode button.
+		– graph of tone waveform.
+	
+	- Sound effects/DSP controls:
+		– EQ
+		– Low pass filter
+		– High pass filter
+		– Detune
+		– tremolo
+		– vibrato
+		
+	– DAW controls:
+		– record short clip of a performance
+		– playback/loop a previous clip
+	
+	– Other:
+		– preset tones e.g. piano, organ, 8-bit, etc.
