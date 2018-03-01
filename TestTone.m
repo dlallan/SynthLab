@@ -1,6 +1,6 @@
 % % Source: http://matlaboratory.blogspot.ca/2016/08/generate-sine-wavetone-matlab.html
 % function TestTone()
-    %% Simple sine wave
+    % Simple sine wave
     amp = 0.05;
     freq = 750;
     dur = 1;
